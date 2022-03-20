@@ -28,6 +28,9 @@
         <activity
             android:name=".file.ui.FileActivity"
             android:label="文件存储数据例子" />
+        <activity
+            android:name=".prefs.PrefsActivity"
+            android:label="SharedPreference 基本使用" />
     </application>
 
 </manifest>
